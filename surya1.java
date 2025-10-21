@@ -2,12 +2,12 @@ package suryabhan1;
 
 public class surya1 {
   public static void main(String[] args) {
-<<<<<<< HEAD
+
     System.out.println("main_new2");
     System.out.println("new file");
-=======
-    System.out.println("main_new21");
->>>>>>> main
+
+    System.out.println("main_new2112");
+
   }
   
 }
