@@ -2,9 +2,9 @@ package suryabhan1;
 
 public  class add {
   public static void main(String[] args) {
-<<<<<<< HEAD
+
     System.out.println("1n1sd");
-=======
+
 
     System.out.println("1n1s");
 
@@ -15,6 +15,6 @@ public  class add {
 
 
 
->>>>>>> main
+
   }
 }

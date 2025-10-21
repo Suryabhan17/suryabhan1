@@ -1,8 +1,8 @@
 package suryabhan1;
 
-public class surya {
+public class surya1 {
   public static void main(String[] args) {
-    System.out.println("suryabhan45@11");
+    System.out.println("main");
   }
   
 }
